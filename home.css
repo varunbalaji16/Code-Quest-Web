@@ -1,6 +1,6 @@
 :root{
   /* setting background of the home page using downloaded image url */
-    background: url('app.jpg') no-repeat;
+    background: url('home.jpg') no-repeat;
     min-height: 100vh;
     /* adding background properties to be a responsive bg*/
     background-size: cover;
